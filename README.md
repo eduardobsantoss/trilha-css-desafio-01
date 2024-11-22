@@ -1,22 +1,76 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+# 🚀 Landing Page - Desafio da Trilha de CSS da DIO
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## 🖌️ Sobre o Desafio
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+Este projeto foi desenvolvido como parte do **desafio proposto na Trilha de CSS da DIO**, onde coloquei em prática os fundamentos do CSS, propriedades básicas de estilização e diferentes unidades de medida (relativas e absolutas). A proposta era criar uma **Landing Page** funcional e estilizada, com base no protótipo fornecido no Figma.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## 🎯 Objetivo
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+O objetivo principal deste desafio foi:
+- Aprender a **interligar páginas HTML com folhas de estilo CSS**.
+- Praticar as **propriedades fundamentais do CSS**, incluindo:
+  - Estilização de textos e elementos.
+  - Aplicação de gradientes nos textos utilizando `background-clip` e `-webkit-background-clip: text`.
+  - Trabalhar com **unidades de medida CSS**, como `%`, `px`, `rem` e `em`.
+- Reproduzir o design fornecido no **Figma**, respeitando o layout proposto.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## 📂 Estrutura do Projeto
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+A estrutura do projeto foi organizada da seguinte forma:
+```
+├── assets
+│   ├── images
+│   │   ├── banner.png
+│   │   └── outras imagens...
+│   └── style
+│       ├── reset.css
+│       ├── style.css
+├── index.html
+└── README.md
+```
+
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML5**: Para a estruturação semântica da página.
+- **CSS3**: Para estilização, com foco em:
+  - Textos em gradiente.
+  - Layouts responsivos.
+  - Efeitos visuais e estilos modernos.
+
+## 🛠️ Funcionalidades
+
+- Landing Page estilizada, seguindo o protótipo proposto no Figma.
+- Gradiente aplicado aos textos com `-webkit-background-clip: text`.
+- Design responsivo, garantindo compatibilidade em diferentes dispositivos.
+
+## 🌟 Resultado
+
+Você pode visualizar o resultado final do desafio no link abaixo:
+
+👉 **[Visualizar Landing Page](#)**
+
+## 🧰 Como Executar o Projeto
+
+1. Faça o clone deste repositório:
+   ```bash
+   git clone https://github.com/eduardobsantoss/trilha-css-desafio-01
+
+2. Navegue até a pasta do projeto:
+    ```bash
+    cd trilha-css-desafio-01
+
+3. Abra o arquivo ```index.html``` no navegador de sua preferência.
+
+# 📝 Próximos Passos
+- Explorar mais propriedades avançadas do CSS, como animações e transições.
+- Implementar JavaScript para adicionar interatividade à página.
+- Aplicar técnicas avançadas de responsividade.
+
+# 🏆 Conclusão
+Este projeto foi uma experiência incrível para praticar e consolidar os fundamentos do CSS e HTML, além de seguir um protótipo visualmente interessante no Figma. Agradeço à DIO pela oportunidade de crescimento e aprendizado!
+
+#
+
+Gostou do projeto? ⭐️ Não esqueça de deixar um star no repositório!
