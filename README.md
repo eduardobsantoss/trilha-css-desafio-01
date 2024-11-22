@@ -49,7 +49,7 @@ A estrutura do projeto foi organizada da seguinte forma:
 
 Você pode visualizar o resultado final do desafio no link abaixo:
 
-👉 **[Visualizar Landing Page](#)**
+👉 **[Visualizar Landing Page](https://eduardobsantoss.github.io/trilha-css-desafio-01/)**
 
 ## 🧰 Como Executar o Projeto
 
